@@ -9,3 +9,9 @@ elif e1 == "*":
     print(x1*x2)
 elif e1 == "/":
     print(x1/x2)
+elif e1 == "//":
+    print(x1//x2)
+elif e1 == "**":
+    print(x1**x2)
+elif e1 == "%":
+    print(x1%x2)
